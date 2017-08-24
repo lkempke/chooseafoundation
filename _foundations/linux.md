@@ -22,7 +22,7 @@ core:
   name: "Linux Foundation"
   newProjects: "yes"
   url: "https://www.linuxfoundation.org/"
-  legalName: "Linux Foundation"
+  legalName: "The Linux Foundation"
   location: "US"
   nonprofit: "501C6"
   softwareType: "various"
